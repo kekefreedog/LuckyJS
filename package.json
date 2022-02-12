@@ -1,0 +1,19 @@
+{
+  "name": "@kekefreedog/luckyjs",
+  "version": "1.0.0",
+  "description": "All essential tools in JS for my own development",
+  "main": "Lucky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekefreedog/LuckyJS.git"
+  },
+  "author": "Kévin Zarshenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekefreedog/LuckyJS/issues"
+  },
+  "homepage": "https://github.com/kekefreedog/LuckyJS#readme"
+}
